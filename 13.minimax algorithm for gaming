@@ -98,3 +98,8 @@ print_board(board)
 
 best_move = find_best_move(board)
 print(f"The best move is at position: {best_move}")
+
+output:
+MIN MAX Algorithm
+[3, 5, 2, 9, 12, 5, 23, 23]
+The optimal value is : 12
