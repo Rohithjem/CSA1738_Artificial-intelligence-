@@ -34,3 +34,11 @@ def solve(board, row):
 
 # Start solving from the first row
 solve(board, 0)
+
+output:
+enter no.of queens:5
+[1, 0, 0, 0, 0]
+[0, 0, 1, 0, 0]
+[0, 0, 0, 0, 1]
+[0, 1, 0, 0, 0]
+[0, 0, 0, 1, 0]
