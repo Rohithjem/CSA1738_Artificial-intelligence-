@@ -36,3 +36,5 @@ graph = {
 }
 
 print(a_star(graph, 'A', 'D'))
+output:
+Shortest path: ['A', 'B', 'C', 'D']
