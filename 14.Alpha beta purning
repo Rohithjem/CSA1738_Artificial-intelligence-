@@ -109,3 +109,8 @@ print_board(board)
 
 best_move = find_best_move(board)
 print(f"The best move is at position: {best_move}")
+
+output:
+Alpha&Beta Pruning Algorithm
+[3, 5, 6, 9, 1, 2, -1, 0]
+The optimal value is : 5
