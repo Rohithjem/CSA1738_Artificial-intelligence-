@@ -67,3 +67,11 @@ while True:
     
     # Switch turns
     turn += 1
+
+output:
+ |X|
+-----
+ |O|O
+-----
+X|X|
+-----
