@@ -18,3 +18,9 @@ weights = [np.array([3, 3]), np.array([1, 5]), np.array([3, 3]), np.array([1, 5]
 for x in inp:
     output = feedforward(x, weights)
     print(f"Input: {x}, Output: {output}")
+
+output:
+Feed forward neural Network
+Input: [ 2 -1], Output: 15
+Input: [2 2], Output: 72
+Input: [3 3], Output: 108
